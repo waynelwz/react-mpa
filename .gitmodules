@@ -1,0 +1,3 @@
+[submodule "starwhale"]
+	path = starwhale
+	url = https://github.com/waynelwz/starwhale
